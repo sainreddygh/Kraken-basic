@@ -1,0 +1,1 @@
+Trying to add something to my first proper Git repository
